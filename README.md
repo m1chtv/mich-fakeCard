@@ -23,5 +23,3 @@ A lightweight **credit card test data generator** built for devs & QA.
 - Runs 100% locally — no backend, no tracking
 - Designed for dev QA and API/testing fixtures
 - Not for real financial use
-
-✨ Built by mich :contentReference[oaicite:0]{index=0}
